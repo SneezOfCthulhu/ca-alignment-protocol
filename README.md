@@ -32,7 +32,7 @@ The Continuance-Awareness Alignment Protocol (v2) is a refined, substrate-indepe
 4. Use issues for discussions or critiques.
 
 ## License
-[To be determined—suggest MIT for open-source compatibility.]
+This project is licensed under the [MIT License](LICENSE), allowing free use, modification, and distribution with the condition that the original copyright and license are included in all copies or substantial portions of the software.
 
 ## Contact
 - Twitter: [@TGborn2](https://x.com/TGborn2)
